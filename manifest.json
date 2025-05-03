@@ -1,0 +1,7 @@
+{
+  "name": "VendettaSpoofer",
+  "description": "Spoofs platform, locale, and build version for Discord",
+  "version": "1.0.0",
+  "authors": ["Fuckebiatch"],
+  "main": "index.js"
+}
